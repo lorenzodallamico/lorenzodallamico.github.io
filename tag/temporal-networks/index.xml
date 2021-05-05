@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temporal networks | Lorenzo Dall&#39;Amico</title>
+    <link>/tag/temporal-networks/</link>
+      <atom:link href="/tag/temporal-networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Temporal networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Temporal networks</title>
+      <link>/tag/temporal-networks/</link>
+    </image>
+    
+    <item>
+      <title>Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian</title>
+      <link>/publication/dbh20/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dbh20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
