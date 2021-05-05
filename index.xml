@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lorenzo Dall&#39;Amico</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lorenzo Dall&#39;Amico</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lorenzo Dall&#39;Amico</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Nishimori meets Bethe: a spectral method for node classification in sparse weighted graphs</title>
+      <link>/publication/bhnishimori/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bhnishimori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian</title>
+      <link>/publication/dbh20/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dbh20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Laplacian regularization for sparse spectral community detection</title>
+      <link>/publication/reg20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reg20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework for spectral clustering in sparse graphs</title>
+      <link>/publication/unified20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unified20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs</title>
+      <link>/publication/bh19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bh19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection in sparse realistic graphs: improving the Bethe-Hessian</title>
+      <link>/publication/bhfirst/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bhfirst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How does latent liquidity get revealed in the limit order book?</title>
+      <link>/publication/latent_liquidity/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/latent_liquidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some implementations of the codes used in our articles</title>
+      <link>/codes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/codes/</guid>
+      <description>&lt;h2 id=&#34;2021&#34;&gt;2021&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Nishimori meets Bethe: a spectral method for node classification in sparse weighted graphs 
+&lt;a href=&#34;https://github.com/lorenzodallamico/NishimoriBetheHessian/archive/main.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian (&lt;em&gt;NeurIPS 2020&lt;/em&gt;) 
+&lt;a href=&#34;https://lorenzodallamico.github.io/codes/Neurips2020.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;A unified framework for spectral clustering in sparse graphs 
+&lt;a href=&#34;https://lorenzodallamico.github.io/codes/SC_sparse.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2019&#34;&gt;2019&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs (&lt;em&gt;NeurIPS 2019&lt;/em&gt;)
+&lt;a href=&#34;https://lorenzodallamico.github.io/codes/Neurips2019.zip&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
