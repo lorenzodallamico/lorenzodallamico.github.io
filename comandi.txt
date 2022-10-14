@@ -1,0 +1,10 @@
+mkdir prova
+cd prova
+hugo new site .
+git init
+vim .gitignore ....> public/
+git remote add origin ...
+git pull origin main
+git add .
+git commit -m 'prova'
+git push -m origin master

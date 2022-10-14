@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolas Tremblay | Lorenzo Dall&#39;Amico</title>
+    <link>/author/nicolas-tremblay/</link>
+      <atom:link href="/author/nicolas-tremblay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolas Tremblay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nicolas Tremblay</title>
+      <link>/author/nicolas-tremblay/</link>
+    </image>
+    
+    <item>
+      <title>Nishimori meets Bethe: a spectral method for node classification in sparse weighted graphs</title>
+      <link>/publication/bhnishimori/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bhnishimori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian</title>
+      <link>/publication/dbh20/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dbh20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Laplacian regularization for sparse spectral community detection</title>
+      <link>/publication/reg20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reg20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework for spectral clustering in sparse graphs</title>
+      <link>/publication/unified20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unified20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs</title>
+      <link>/publication/bh19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bh19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

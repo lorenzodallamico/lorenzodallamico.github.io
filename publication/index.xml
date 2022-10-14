@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lorenzo Dall&#39;Amico</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 09 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Estimating household contact matrices structure from easily collectable metadata</title>
+      <link>/publication/collectable/</link>
+      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/collectable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral methods for graph clustering</title>
+      <link>/publication/phd/</link>
+      <pubDate>Sun, 10 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nishimori meets Bethe: a spectral method for node classification in sparse weighted graphs</title>
+      <link>/publication/bhnishimori/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bhnishimori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection in sparse time-evolving graphs with a dynamical Bethe-Hessian</title>
+      <link>/publication/dbh20/</link>
+      <pubDate>Wed, 03 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/dbh20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Laplacian regularization for sparse spectral community detection</title>
+      <link>/publication/reg20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/reg20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework for spectral clustering in sparse graphs</title>
+      <link>/publication/unified20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unified20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting the Bethe-Hessian: Improved Community Detection in Sparse Heterogeneous Graphs</title>
+      <link>/publication/bh19/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bh19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community detection in sparse realistic graphs: improving the Bethe-Hessian</title>
+      <link>/publication/bhfirst/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bhfirst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How does latent liquidity get revealed in the limit order book?</title>
+      <link>/publication/latent_liquidity/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/latent_liquidity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mechanism for the latent liquidity revealing into the limit order book</title>
+      <link>/publication/magistrale/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/magistrale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Lorenzo Dall&#39;Amico</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 03 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Nishimori meets Bethe: a spectral method for node classification in sparse weighted graphs</title>
+      <link>/publication/bhnishimori/</link>
+      <pubDate>Wed, 03 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/bhnishimori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified framework for spectral clustering in sparse graphs</title>
+      <link>/publication/unified20/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/unified20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How does latent liquidity get revealed in the limit order book?</title>
+      <link>/publication/latent_liquidity/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/latent_liquidity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
