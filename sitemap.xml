@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/codes/</loc>
+  </url>
+  
+  <url>
     <loc>/project/sociopatterns/</loc>
   </url>
   
@@ -16,12 +20,42 @@
   
   <url>
     <loc>/publication-type/3/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/edrep/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/enrico-maria-belliardo/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/lorenzo-dallamico/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2023-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -55,16 +89,6 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/lorenzo-dallamico/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/michele-tizzoni/</loc>
     <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url>
@@ -76,16 +100,6 @@
   
   <url>
     <loc>/author/nicole-wolter/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
     <lastmod>2022-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -192,10 +206,6 @@
   <url>
     <loc>/publication/magistrale/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/codes/</loc>
   </url>
   
   <url>
