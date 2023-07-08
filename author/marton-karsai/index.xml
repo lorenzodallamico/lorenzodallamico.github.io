@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michele Tizzoni | Lorenzo Dall&#39;Amico</title>
-    <link>/author/michele-tizzoni/</link>
-      <atom:link href="/author/michele-tizzoni/index.xml" rel="self" type="application/rss+xml" />
-    <description>Michele Tizzoni</description>
+    <title>Marton Karsai | Lorenzo Dall&#39;Amico</title>
+    <link>/author/marton-karsai/</link>
+      <atom:link href="/author/marton-karsai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marton Karsai</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Michele Tizzoni</title>
-      <link>/author/michele-tizzoni/</link>
+      <title>Marton Karsai</title>
+      <link>/author/marton-karsai/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/generalizedcm23/</link>
       <pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
       <guid>/publication/generalizedcm23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating household contact matrices structure from easily collectable metadata</title>
-      <link>/publication/collectable/</link>
-      <pubDate>Fri, 09 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/collectable/</guid>
       <description></description>
     </item>
     
