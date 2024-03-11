@@ -7,18 +7,6 @@
   </url>
   
   <url>
-    <loc>/project/sociopatterns/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/sc/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/llob/</loc>
-  </url>
-  
-  <url>
     <loc>/publication-type/3/</loc>
     <lastmod>2024-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -312,31 +300,11 @@
   </url>
   
   <url>
+    <loc>/teaching/</loc>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/data-for-good/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/graph-science/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/machine-learning/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/sparsity/</loc>
-  </url>
-  
-  <url>
-    <loc>/tag/unsupervised-learning/</loc>
   </url>
   
 </urlset>
