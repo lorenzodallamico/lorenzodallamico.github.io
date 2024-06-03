@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kyriaki Kalimeri | Lorenzo Dall&#39;Amico</title>
-    <link>/author/kyriaki-kalimeri/</link>
-      <atom:link href="/author/kyriaki-kalimeri/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kyriaki Kalimeri</description>
+    <title>Pasquale Casaburi | Lorenzo Dall&#39;Amico</title>
+    <link>/author/pasquale-casaburi/</link>
+      <atom:link href="/author/pasquale-casaburi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pasquale Casaburi</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Kyriaki Kalimeri</title>
-      <link>/author/kyriaki-kalimeri/</link>
+      <title>Pasquale Casaburi</title>
+      <link>/author/pasquale-casaburi/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/pasquale_mobility/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>/publication/pasquale_mobility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political context of the European vaccine debate on Twitter</title>
-      <link>/publication/giordano23/</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/giordano23/</guid>
       <description></description>
     </item>
     
