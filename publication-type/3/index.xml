@@ -21,15 +21,7 @@
     </item>
     
     <item>
-      <title>An embedding-based distance for temporal graphs</title>
-      <link>/publication/gdynadist/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/gdynadist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient distributed representations beyond negative sampling</title>
+      <title>Efficient distributed representations with linear-time attention scores normalization</title>
       <link>/publication/edrep/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/publication/edrep/</guid>

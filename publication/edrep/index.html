@@ -27,7 +27,7 @@
   
     
   
-  <meta name="description" content="In this article we introduce a fast approximation method for the softmax normalization constants and use this result to define an efficient algorithm to create distributed representations.">
+  <meta name="description" content="In this article we introduce a fast approximation method for the attention-score normalization constants and use this result to define an efficient algorithm to create distributed representations.">
 
   
   <link rel="alternate" hreflang="en-us" href="/publication/edrep/">
@@ -233,15 +233,16 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Lorenzo Dall&#39;Amico">
   <meta property="og:url" content="/publication/edrep/">
-  <meta property="og:title" content="Efficient distributed representations beyond negative sampling | Lorenzo Dall&#39;Amico">
-  <meta property="og:description" content="In this article we introduce a fast approximation method for the softmax normalization constants and use this result to define an efficient algorithm to create distributed representations."><meta property="og:image" content="/publication/edrep/featured.png">
-  <meta property="twitter:image" content="/publication/edrep/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:title" content="Efficient distributed representations with linear-time attention scores normalization | Lorenzo Dall&#39;Amico">
+  <meta property="og:description" content="In this article we introduce a fast approximation method for the attention-score normalization constants and use this result to define an efficient algorithm to create distributed representations."><meta property="og:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2023-03-30T00:00:00&#43;00:00">
@@ -270,11 +271,7 @@
     "@type": "WebPage",
     "@id": "/publication/edrep/"
   },
-  "headline": "Efficient distributed representations beyond negative sampling",
-  
-  "image": [
-    "/publication/edrep/featured.png"
-  ],
+  "headline": "Efficient distributed representations with linear-time attention scores normalization",
   
   "datePublished": "2023-03-30T00:00:00Z",
   "dateModified": "2023-03-30T00:00:00Z",
@@ -292,7 +289,7 @@
       "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "In this article we introduce a fast approximation method for the softmax normalization constants and use this result to define an efficient algorithm to create distributed representations."
+  "description": "In this article we introduce a fast approximation method for the attention-score normalization constants and use this result to define an efficient algorithm to create distributed representations."
 }
 </script>
 
@@ -310,7 +307,7 @@
 
 
 
-  <title>Efficient distributed representations beyond negative sampling | Lorenzo Dall&#39;Amico</title>
+  <title>Efficient distributed representations with linear-time attention scores normalization | Lorenzo Dall&#39;Amico</title>
 
 </head>
 
@@ -586,24 +583,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
   
-
-
+  
 <div class="article-container pt-3">
-  <h1>Efficient distributed representations beyond negative sampling</h1>
+  <h1>Efficient distributed representations with linear-time attention scores normalization</h1>
 
   
 
   
+    
 
 
 <div class="article-metadata">
@@ -616,7 +607,7 @@
     
 
   
-  <span><a href="/author/lorenzo-dallamico/">Lorenzo Dall&#39;Amico</a></span>, <span>Enrico Maria Belliardo</span>
+  <span><a href="/author/lorenzo-dallamico/">Lorenzo Dall&#39;Amico</a></span>, <span>enrico maria belliardo</span>
   </div>
   
   
@@ -644,7 +635,7 @@
 
 </div>
 
-  
+    
 
 
 
@@ -731,14 +722,7 @@
 </div>
 
 
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 436px; max-height: 494px;">
-  <div style="position: relative">
-    <img src="/publication/edrep/featured.png" alt="" class="featured-image">
-    
-  </div>
+  
 </div>
 
 
@@ -747,7 +731,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">This article describes an efficient method to learn distributed representations, also known as embeddings. This is accomplished minimizing an objective function similar to the one introduced in the Word2Vec algorithm and later adopted in several works. The optimization computational bottleneck is the calculation of the softmax normalization constants for which a number of operations scaling quadratically with the sample size is required. This complexity is unsuited for large datasets and negative sampling is a popular workaround, allowing one to obtain distributed representations in linear time with respect to the sample size. Negative sampling consists, however, in a change of the loss function and hence solves a different optimization problem from the one originally proposed. Our contribution is to show that the sotfmax normalization constants can be estimated in linear time, allowing us to design an efficient optimization strategy to learn distributed representations. We test our approximation on two popular applications related to word and node embeddings. The results evidence competing performance in terms of accuracy with respect to negative sampling with a remarkably lower computational time.</p>
+    <p class="pub-abstract">The attention score matrix ${\rm SoftMax}(XY^T)$ encodes relational similarity patterns between objects and is extremely popular in machine learning. However, the complexity required to calculate it runs quadratically with the problem size, making it a computationally heavy solution. In this article, we propose a linear-time approximation of the attention score normalization constants for embedding vectors with bounded norms. We show on several pre-trained embeddings that the accuracy of our estimation formula surpasses competing kernel methods by even orders of magnitude. From this result, we design a linear-time and task-agnostic embedding algorithm based on the optimization of the attention scores. The proposed algorithm is highly interpretable and easily adapted to an arbitrary embedding problem. We consider a few use-cases and observe similar or higher performances and a lower computational time with respect to comparable embedding algorithms.</p>
     
 
     

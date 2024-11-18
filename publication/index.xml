@@ -5,12 +5,20 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>An embedding-based distance for temporal graphs</title>
+      <link>/publication/gdynadist/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/publication/gdynadist/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Generalized contact matrices allow integrating socioeconomic variables into epidemic models</title>
@@ -25,14 +33,6 @@
       <link>/publication/pasquale_mobility/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       <guid>/publication/pasquale_mobility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An embedding-based distance for temporal graphs</title>
-      <link>/publication/gdynadist/</link>
-      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/gdynadist/</guid>
       <description></description>
     </item>
     
@@ -53,7 +53,7 @@
     </item>
     
     <item>
-      <title>Efficient distributed representations beyond negative sampling</title>
+      <title>Efficient distributed representations with linear-time attention scores normalization</title>
       <link>/publication/edrep/</link>
       <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
       <guid>/publication/edrep/</guid>
