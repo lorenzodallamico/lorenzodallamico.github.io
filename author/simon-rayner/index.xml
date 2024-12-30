@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniela Paolotti | Lorenzo Dall&#39;Amico</title>
-    <link>/author/daniela-paolotti/</link>
-      <atom:link href="/author/daniela-paolotti/index.xml" rel="self" type="application/rss+xml" />
-    <description>Daniela Paolotti</description>
+    <title>Simon Rayner | Lorenzo Dall&#39;Amico</title>
+    <link>/author/simon-rayner/</link>
+      <atom:link href="/author/simon-rayner/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Rayner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Daniela Paolotti</title>
-      <link>/author/daniela-paolotti/</link>
+      <title>Simon Rayner</title>
+      <link>/author/simon-rayner/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/microbiota/</link>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       <guid>/publication/microbiota/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Political context of the European vaccine debate on Twitter</title>
-      <link>/publication/giordano23/</link>
-      <pubDate>Wed, 06 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/giordano23/</guid>
       <description></description>
     </item>
     
