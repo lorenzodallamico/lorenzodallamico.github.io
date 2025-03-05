@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kishor Acharya | Lorenzo Dall&#39;Amico</title>
+    <link>/author/kishor-acharya/</link>
+      <atom:link href="/author/kishor-acharya/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kishor Acharya</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kishor Acharya</title>
+      <link>/author/kishor-acharya/</link>
+    </image>
+    
+    <item>
+      <title>Comparing temporal and aggregated network descriptions of fluid transport in the Mediterranean Sea</title>
+      <link>/publication/ocean25/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ocean25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

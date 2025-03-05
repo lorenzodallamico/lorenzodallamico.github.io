@@ -5,12 +5,28 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>/publication/</link>
     </image>
+    
+    <item>
+      <title>Comparing temporal and aggregated network descriptions of fluid transport in the Mediterranean Sea</title>
+      <link>/publication/ocean25/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/ocean25/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilience of mobility network to dynamic population response across COVID-19 interventions: Evidences from Chile</title>
+      <link>/publication/pasquale_mobility/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/pasquale_mobility/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Association Between Oral Microbiota and Close-Range Proximity in a Primary School</title>
@@ -33,14 +49,6 @@
       <link>/publication/generalizedcm23/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>/publication/generalizedcm23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Resilience of mobility network to dynamic population response across COVID-19 interventions: evidences from Chile</title>
-      <link>/publication/pasquale_mobility/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      <guid>/publication/pasquale_mobility/</guid>
       <description></description>
     </item>
     
