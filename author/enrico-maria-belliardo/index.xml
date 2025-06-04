@@ -5,7 +5,7 @@
     <link>/author/enrico-maria-belliardo/</link>
       <atom:link href="/author/enrico-maria-belliardo/index.xml" rel="self" type="application/rss+xml" />
     <description>Enrico Maria Belliardo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Enrico Maria Belliardo</title>
@@ -13,9 +13,9 @@
     </image>
     
     <item>
-      <title>Efficient distributed representations with linear-time attention scores normalization</title>
+      <title>Learning distributed representations with efficient SoftMax normalization</title>
       <link>/publication/edrep/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       <guid>/publication/edrep/</guid>
       <description></description>
     </item>

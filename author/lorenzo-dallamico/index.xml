@@ -5,12 +5,20 @@
     <link>/author/lorenzo-dallamico/</link>
       <atom:link href="/author/lorenzo-dallamico/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Dall&#39;Amico</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/lorenzo-dallamico/avatar_hu720c2a8387dbb712941c3161b42e2230_190828_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Lorenzo Dall&#39;Amico</title>
       <link>/author/lorenzo-dallamico/</link>
     </image>
+    
+    <item>
+      <title>Learning distributed representations with efficient SoftMax normalization</title>
+      <link>/publication/edrep/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/edrep/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Comparing temporal and aggregated network descriptions of fluid transport in the Mediterranean Sea</title>
@@ -65,14 +73,6 @@
       <link>/publication/jackie23/</link>
       <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
       <guid>/publication/jackie23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient distributed representations with linear-time attention scores normalization</title>
-      <link>/publication/edrep/</link>
-      <pubDate>Thu, 30 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/edrep/</guid>
       <description></description>
     </item>
     
