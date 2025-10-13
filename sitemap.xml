@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/codes/</loc>
-  </url>
-  
-  <url>
     <loc>/publication-type/2/</loc>
     <lastmod>2025-05-29T00:00:00+00:00</lastmod>
   </url>
@@ -399,6 +395,10 @@
   <url>
     <loc>/publication/magistrale/</loc>
     <lastmod>2018-07-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/codes/</loc>
   </url>
   
   <url>
