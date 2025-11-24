@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Silvia Guerrini | Lorenzo Dall&#39;Amico</title>
+    <link>/author/silvia-guerrini/</link>
+      <atom:link href="/author/silvia-guerrini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Silvia Guerrini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Silvia Guerrini</title>
+      <link>/author/silvia-guerrini/</link>
+    </image>
+    
+    <item>
+      <title>Modeling memory in time-respecting paths on temporal networks</title>
+      <link>/publication/guerrinimemory25/</link>
+      <pubDate>Mon, 24 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>/publication/guerrinimemory25/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
