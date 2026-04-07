@@ -5,12 +5,36 @@
     <link>/author/lorenzo-dallamico/</link>
       <atom:link href="/author/lorenzo-dallamico/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Dall&#39;Amico</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 24 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/lorenzo-dallamico/avatar_hu720c2a8387dbb712941c3161b42e2230_190828_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/images/icon_hu_10c2cab00f70a654.png</url>
       <title>Lorenzo Dall&#39;Amico</title>
       <link>/author/lorenzo-dallamico/</link>
     </image>
+    
+    <item>
+      <title>Lorenzo Dall&#39;Amico</title>
+      <link>/author/lorenzo-dallamico/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/author/lorenzo-dallamico/</guid>
+      <description>&lt;p&gt;I am currently a postodoctoral fellow in the group led by Prof. 
+&lt;a href=&#34;https://www.cirocattuto.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciro Cattuto&lt;/a&gt; at the 
+&lt;a href=&#34;https://isi.it/en/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ISI foundation&lt;/a&gt; in Turin, Italy. Im also an assistant professor at University of Torino, teaching a course on 
+&lt;a href=&#34;https://lorenzodallamico.github.io/teaching/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;complex networks&lt;/a&gt;. My work focuses on the analysis of complex, temporal and proximity networks, with a particular emphasis on finding appropriate and interpretable representations of these high-dimensional data structures. I use methods at the crossroad of statistical physics, mathematics and computer science. My interests span from theoretical problems to data driven ones with applications to social sciences, epidemiology and human behavior modeling.&lt;/p&gt;
+&lt;!-- I obtained my PhD working in the GAIA team of GIPSA lab in Grenoble, under the supervision of Prof. [Romain Couillet](http://polaris.imag.fr/romain.couillet/index.html) and of [Nicolas Tremblay](http://www.gipsa-lab.fr/~nicolas.tremblay/). My work focused on the improvement and theoretical understanding of unsupervised graph spectral clustering with methods at the frontier between graph signal processing, statistical physics, computer science and random matrix theory. [Check here](/publication/phd/) the page dedicated to my PhD manuscript.
+
+Earlier I got a master degree in [Physics of complex systems](http://www.pcs.polito.it/) at Politecnico di Torino and Université Paris Sud. [Check here](publication/magistrale) the page dedicated to my Master degree thesis. --&gt;
+ &lt;!-- &lt;a href=&#34;/cv.pdf&#34; target=&#34;_blank&#34;&gt;
+  &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;For few more details, download my &lt;a href=&#34;/cv.pdf&#34; target=&#34;_blank&#34;&gt; CV&lt;/a&gt;. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Relationship between household attributes and contact patterns in urban and rural South Africa</title>
+      <link>/publication/kausutua26/</link>
+      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/kausutua26/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Modeling memory in time-respecting paths on temporal networks</title>
