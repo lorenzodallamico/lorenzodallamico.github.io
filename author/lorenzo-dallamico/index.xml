@@ -5,7 +5,7 @@
     <link>/author/lorenzo-dallamico/</link>
       <atom:link href="/author/lorenzo-dallamico/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorenzo Dall&#39;Amico</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu_10c2cab00f70a654.png</url>
       <title>Lorenzo Dall&#39;Amico</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Lorenzo Dall&#39;Amico</title>
       <link>/author/lorenzo-dallamico/</link>
-      <pubDate>Mon, 23 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid>/author/lorenzo-dallamico/</guid>
       <description>&lt;p&gt;I am currently a postodoctoral fellow in the group led by Prof. 
 &lt;a href=&#34;https://www.cirocattuto.info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciro Cattuto&lt;/a&gt; at the 
@@ -26,6 +26,14 @@
 Earlier I got a master degree in [Physics of complex systems](http://www.pcs.polito.it/) at Politecnico di Torino and Université Paris Sud. [Check here](publication/magistrale) the page dedicated to my Master degree thesis. --&gt;
  &lt;!-- &lt;a href=&#34;/cv.pdf&#34; target=&#34;_blank&#34;&gt;
   &lt;i class=&#34;fas fa-download  pr-1 fa-fw&#34;&gt;&lt;/i&gt;&lt;/a&gt;For few more details, download my &lt;a href=&#34;/cv.pdf&#34; target=&#34;_blank&#34;&gt; CV&lt;/a&gt;. --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Social interactions in isolated, confined, and extreme environments: A study of Antarctic winter teams using wearable sensors</title>
+      <link>/publication/2026_antartica/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_antartica/</guid>
+      <description></description>
     </item>
     
     <item>

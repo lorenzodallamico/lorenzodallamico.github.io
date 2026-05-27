@@ -5,12 +5,20 @@
     <link>/author/ciro-cattuto/</link>
       <atom:link href="/author/ciro-cattuto/index.xml" rel="self" type="application/rss+xml" />
     <description>Ciro Cattuto</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu_10c2cab00f70a654.png</url>
       <title>Ciro Cattuto</title>
       <link>/author/ciro-cattuto/</link>
     </image>
+    
+    <item>
+      <title>Social interactions in isolated, confined, and extreme environments: A study of Antarctic winter teams using wearable sensors</title>
+      <link>/publication/2026_antartica/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>/publication/2026_antartica/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Relationship between household attributes and contact patterns in urban and rural South Africa</title>
